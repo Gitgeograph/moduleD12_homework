@@ -1,0 +1,38 @@
+2023-09-05 10:42:56,923  INFO  autoreload  Watching for file changes with StatReloader
+
+2023-09-12 23:29:15,261  INFO  autoreload  Watching for file changes with StatReloader
+
+2023-09-12 23:30:13,094  INFO  autoreload  C:\SkillFactory\moduleD6_homework\NewsPaper\NewsPaper\settings.py changed, reloading.
+
+2023-09-13 00:25:49,722  INFO  autoreload  Watching for file changes with StatReloader
+
+2023-09-13 00:25:49,765  ERROR  views  Hello! I'm error in your app. Enjoy:)
+
+2023-09-13 00:29:52,436  INFO  autoreload  C:\SkillFactory\moduleD6_homework\NewsPaper\news\views.py changed, reloading.
+
+2023-09-13 00:29:55,046  INFO  autoreload  Watching for file changes with StatReloader
+
+2023-09-13 00:29:55,159  ERROR  views  Hello! I'm error in your app. Enjoy:)
+
+2023-09-13 00:31:02,639  INFO  autoreload  C:\SkillFactory\moduleD6_homework\NewsPaper\news\views.py changed, reloading.
+
+2023-09-13 00:31:05,189  INFO  autoreload  Watching for file changes with StatReloader
+
+2023-09-13 00:31:05,258  WARNING  views  Hello! I'm error in your app. Enjoy:)
+
+2023-09-13 00:34:24,607  INFO  autoreload  C:\SkillFactory\moduleD6_homework\NewsPaper\NewsPaper\settings.py changed, reloading.
+
+2023-09-13 00:34:26,875  INFO  autoreload  Watching for file changes with StatReloader
+
+2023-09-13 00:34:26,911  WARNING  views  Hello! I'm error in your app. Enjoy:)
+
+2023-09-13 00:34:34,430  INFO  autoreload  C:\SkillFactory\moduleD6_homework\NewsPaper\news\views.py changed, reloading.
+
+2023-09-13 00:34:36,482  INFO  autoreload  Watching for file changes with StatReloader
+
+2023-09-13 00:35:51,596  INFO  autoreload  C:\SkillFactory\moduleD6_homework\NewsPaper\news\views.py changed, reloading.
+
+2023-09-13 00:35:53,568  INFO  autoreload  Watching for file changes with StatReloader
+
+2023-09-13 00:38:03,508  INFO  autoreload  C:\SkillFactory\moduleD6_homework\NewsPaper\NewsPaper\settings.py changed, reloading.
+
